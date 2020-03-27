@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="string">Input Number 01</string>
+    <string name="string2">Input Number 02</string>
+</resources>
